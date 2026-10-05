@@ -1,3 +1,7 @@
 This is first line
 This is second line
+<<<<<<< HEAD
 This is third line
+=======
+This is fourth line
+>>>>>>> 4740d8c (Added fourth line)
